@@ -27,3 +27,6 @@ This project is inspired by and originally based on
 [QLicense](https://github.com/soldierq/QLicense) by @soldierq. 
 Significant modifications and modernization have been made to bring it up
 to date with current .NET practices.
+
+[Detailed description]
+https://www.codeproject.com/Articles/996001/A-Ready-to-Use-Software-Licensing-Solution-in-Csha
